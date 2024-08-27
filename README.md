@@ -1,9 +1,9 @@
 #introduction to github
 
-**This Text is Bold**\
+**This Text is Bold**
 
-_This text is italic_\
+_This text is italic_
 
-***This text is both bold and italics***\
+***This text is both bold and italics***
 
 ~~OOPS I MADE AN ERROR~~
