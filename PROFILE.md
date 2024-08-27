@@ -1,3 +1,3 @@
 # A First-level heading
-## A Second-level Heading
+## A Second-level heading
 ### A Third-level heading
